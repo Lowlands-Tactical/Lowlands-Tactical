@@ -9,3 +9,4 @@ Mensen die niet bepaalde sloten meer mogen pakken:
 ## Tank Crew:
 - Brouwer!
 - Wishmain
+- Pingwing (Is al oud, mag zich bewijzen)
