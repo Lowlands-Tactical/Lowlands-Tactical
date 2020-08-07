@@ -7,6 +7,7 @@ Mensen die niet bepaalde sloten meer mogen pakken:
 
 
 ## Tank Crew:
-- Brouwer!
-- Wishmain
-- Pingwing (Is al oud, mag zich bewijzen)
+- Brouwer! + Wishmain
+- Brouwer! + Pingwing (Is al oud, mag zich bewijzen)
+
+(I sense a pattern here)
